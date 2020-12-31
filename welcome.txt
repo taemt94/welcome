@@ -1,0 +1,3 @@
+Hello I'm Taesan.
+I started to study programming recently and it's my first time to use github.
+I'm gonna manage my repositories from now on and upload whatever I learn on a daily basis.
